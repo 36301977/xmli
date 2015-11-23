@@ -1,0 +1,41 @@
+//
+//  PrefixHeader.pch
+//  喜马拉雅项目
+//
+//  Created by 大米 on 15/11/17.
+//  Copyright © 2015年 rice. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#import "Header.h"
+#import "AFNetworking.h"
+#import "UIImageView+WebCache.h"
+#import "CYImageView.h"
+
+#import "faxianDataHandle.h"
+#import "TableViewCell.h"
+#import "faXianTuiJianlieBiaoModel.h"
+#import "Indicator.h"
+#import "SDRefresh.h"
+#import "faxianfenleiModel.h"
+#import "faxiantuijianDataHandle.h"
+#import "fenlei1TableViewCell.h"
+#import "fenlie2TableViewCell.h"
+#import "faxianzhiboDataHandle.h"
+#import "faxianzhiboModel.h"
+
+#import "zhibotuijian1TableViewCell.h"
+#import "fxbangdanTableViewCell.h"
+
+#import "faxianFocusImages.h"
+#import "faxianBangDanFocusImagesModel.h"
+#import "faxianBangDanfirstKResultsModel.h"
+#import "faxianBangDanModel.h"
+
+#import "faxianBangdanDataHandle.h"
+
+#import "ZhuanjiTableViewController.h"
+
+#endif /* PrefixHeader_pch */
